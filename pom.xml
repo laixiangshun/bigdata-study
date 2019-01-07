@@ -104,5 +104,6 @@
         <module>flink-kafka11-sink</module>
         <module>flink-kafka-source</module>
         <module>elasticsearch</module>
+        <module>flink-kafka-hbase</module>
     </modules>
 </project>
