@@ -105,5 +105,8 @@
         <module>flink-kafka-source</module>
         <module>elasticsearch</module>
         <module>flink-kafka-hbase</module>
+        <module>flink-jdbc-hbase</module>
+        <module>flink-hdfs</module>
+        <module>kafka-stream</module>
     </modules>
 </project>
