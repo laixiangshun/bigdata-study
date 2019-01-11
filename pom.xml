@@ -108,5 +108,6 @@
         <module>flink-jdbc-hbase</module>
         <module>flink-hdfs</module>
         <module>kafka-stream</module>
+        <module>flink-sideoutput</module>
     </modules>
 </project>
