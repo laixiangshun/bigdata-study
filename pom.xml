@@ -109,5 +109,6 @@
         <module>flink-hdfs</module>
         <module>kafka-stream</module>
         <module>flink-sideoutput</module>
+        <module>flink-async-io</module>
     </modules>
 </project>
